@@ -23,5 +23,5 @@ npm run dev
 npm run test
 
 ## Live Demo
-
+https://gitsearch2.netlify.app/
 
